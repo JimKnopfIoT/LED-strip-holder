@@ -11,6 +11,6 @@ Requirements:
 * 6 x 2x12mm Spax (wood) screws 
 
 ## View
-![Example](iso.jpg)
-![Example](20190829_231729.jpg)
-![Example](20190829_231741.jpg)
+<img src="iso.jpg" width="500" align="center"> 
+<img src="20190829_231729.jpg" width="500" align="center"> 
+<img src="20190829_231741.jpg" width="500" align="center"> 
